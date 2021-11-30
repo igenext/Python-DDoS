@@ -20,6 +20,6 @@
 2. Paste the data as a dictionary type in the respective variables.
 3. Run the ddos program.
 
-### It's better to deploy in several machines to see the actual results.
+### It's better to deploy in several machines to see the effective results.
 
 
