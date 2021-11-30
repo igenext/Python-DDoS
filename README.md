@@ -1,9 +1,9 @@
 # Python-DDoS
 
 ## DDoS:
-     A Distributed Denial of Service attack is an attempt to disrupt the normal traffic of a targeted server.
+  A Distributed Denial of Service attack is an attempt to disrupt the normal traffic of a targeted server.
 
-### Source Motivation : [Python skills to punish credit card SCammers](https://youtu.be/StmNWzHbQJU)     
+### Source Motivation : [Python skills to punish credit card Scammers](https://youtu.be/StmNWzHbQJU)     
 
 
 ## Needs and Requirements:
