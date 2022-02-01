@@ -11,7 +11,6 @@
 1. Compute Machine capable of running Python3.
 2. Python Modules:
     - requests Module ( Run `pip install requests` ).
-    - threading Module ( Run `pip install threading` ).
 
 ## Attack:
 
