@@ -1,6 +1,4 @@
-import requests
-import threading
-
+import requests,threading
 
 url = '' # target-url
 
