@@ -10,7 +10,7 @@
 
 1. Compute Machine capable of running Python3.
 2. Python Modules:
-    - requests Module ( Run `pip install requests` ).
+    - requests Module ( Run `pip install requests` or `pip3 install requests` ).
 
 ## Attack:
 
